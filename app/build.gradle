@@ -21,8 +21,8 @@ android {
     applicationId "com.teaagent"
     minSdkVersion rootProject.ext.minSdkVersion
     targetSdkVersion rootProject.ext.targetSdkVersion
-    versionCode 10
-    versionName "version-00010"
+    versionCode 11
+    versionName "version-00011-prod"
     multiDexEnabled true
 
     testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"

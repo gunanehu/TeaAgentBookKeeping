@@ -1,0 +1,5 @@
+
+Tkotlin:S1172G"5Use "_" instead of this unused lambda parameter "it".(ž‰ü8§÷§ž¹0
+xkotlin:S63067"TUsing "GlobalScope" here leads to the breaking of structured concurrency principles.(ð‹í§ÿÿÿÿÿ8¨÷§ž¹0
+>kotlin:S1128"Remove this unused import.(œ‘Ü„úÿÿÿÿ8©÷§ž¹0
+ikotlin:S63133"EClasses extending "ViewModel" should not expose suspending functions.(ÈÛìŠúÿÿÿÿ8ª÷§ž¹0
